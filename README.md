@@ -1,0 +1,2 @@
+# selftaughtToJob
+presentation with revealJS
